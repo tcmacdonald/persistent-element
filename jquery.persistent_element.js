@@ -1,3 +1,16 @@
+/**
+ * jQuery Persistent Element Plugin
+ * https://github.com/tcmacdonald/persistent_element
+ *
+ * Copyright 2012, Taylor MacDonald
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.opensource.org/licenses/GPL-2.0
+ *
+ * Example usage: $('some element').persistent_element(); 
+ *
+ */
+
 (function( $ ){
 
   var defaults = {};
